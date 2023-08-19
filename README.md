@@ -8,6 +8,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dicksontan2618&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dicksontan2618&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
+
 
 ### 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/Web-HTML5-informational?style=flat&logo=html5&color=orange&logoColor=white)
