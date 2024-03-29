@@ -3,7 +3,7 @@
 
 <h4 align="center">Currently learning and exploring in the field of <i>web development</i> 🌐</h4>
 
-<h3 align="left">Here's Some Stats 📊 :</h3>
+<h3 align="left">Some Stats 📊 :</h3>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dicksontan2618&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dicksontan2618&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
@@ -36,13 +36,8 @@
 </details>
 
 ### 🌐 Reach me at:
-<a href="https://www.linkedin.com/in/dickson-tan-b37474226/" target="_blank">
-  <img src="https://drive.google.com/uc?id=1azRJYlhID3HG-EKaf-3qZAu-Uzknyc5f" width="25px">
-</a>
-<a href="https://stackoverflow.com/users/16552296/dickson" target="_blank">
-  <img src="https://drive.google.com/uc?id=1vUhkuTsRm7Bk_Qw65Vi1xR0Unn0aeKyV" width="25px">
-</a>
+
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=dicksontan2618&icon=5&color=2)](https://visitcount.itsvg.in)
+### 👥 Visitor Count:
+![Visitor Count](https://profile-counter.glitch.me/dicksontan2618/count.svg)
