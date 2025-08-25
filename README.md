@@ -1,7 +1,7 @@
 <h2 align="left">Dickson here! 👋</h2>
 <h4 align="center">A passionate Computer Science student from Universiti Sains Malaysia 👨🏻‍💻</h4>
 
-<h4 align="center">Currently learning and exploring in the field of <i>web development</i> 🌐</h4>
+<h4 align="center">Currently learning and exploring in the field of <i>software development</i> 🌐</h4>
 
 <h3 align="left">Some Stats 📊 :</h3>
 
@@ -37,10 +37,3 @@
 
 ### 🌐 Reach me at:
 <a href="https://www.linkedin.com/in/dickson-tan-b37474226/" target="_blank"><img height="32" src="https://raw.githubusercontent.com/dicksontan2618/dicksontan2618/master/assets/linkedin-color.svg"></a>
-<a href="https://stackoverflow.com/users/16552296/dickson" target="_blank">
-  <img src="https://raw.githubusercontent.com/dicksontan2618/dicksontan2618/master/assets/stackoverflow-color.svg" height="32">
-</a>
-
----
-### 👥 Visitor Count:
-![Visitor Count](https://profile-counter.glitch.me/dicksontan2618/count.svg)
